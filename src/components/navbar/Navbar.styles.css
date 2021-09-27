@@ -1,0 +1,14 @@
+.logo-rick, 
+.logo-rick img {
+    width: 35px;
+    margin-left: 10px;
+}
+
+.letras-rick, 
+.letras-rick img {
+    width: 100px;
+    margin-right: 20px;
+}
+.navbar{
+    height: 60px;
+}
